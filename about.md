@@ -3,6 +3,10 @@ layout: page
 title: About
 ---
 
+
 <p class="message">
-  Hey there! Automobile Engineer by Profession, working at Ford Motor Private Limited, Chennai, India. Planning to make sure EVERYBODY start using Mass Transportation. Exploring opportunities to work on vehicles of Mass Transportation, Trasnportation Networks and Transportation Systems Modelling in countries developing at a rapid pace like India.
+
+  I am <strong>Jay Khatri</strong> from Ahmedabad, India. Working at <a href="http://www.ford.com">Ford</a> after graduating from <a href="http://www.ldceahd.org">LDCE</a>. Please do REVISIT, yet to be loaded with many interesting stories and information.
+  
 </p>
+
