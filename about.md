@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thats <strong>ME</strong>
+title: <strong>ME!</strong>
 ---
 
 
