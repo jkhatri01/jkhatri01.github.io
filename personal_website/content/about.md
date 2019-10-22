@@ -4,10 +4,10 @@ showthedate = false
 
 +++
 
-## Education
+*Hello World!* I* am **Jay Khatri**.
 
-* LDCE
+My almost past affair with cars made me an **Automobile Engineer**.
 
-## Experience
+**BUT** my lungs worry about the taste of air that I and billions breathe and the looming catastrophe of climate change resulted in me mostly thinking about decarbonizing the transport sector.
 
-* Power Train Engineer, Ford India.
+I am interested in **transport** + **environment** + **transport-justice** + **air-quality**.
