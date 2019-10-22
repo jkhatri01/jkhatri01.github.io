@@ -49,6 +49,11 @@ pygmentscodefencesguesssyntax = true
     icon = "fab fa-linkedin"
     weight = 2
     url = "https://www.linkedin.com/in/jay-khatri-83ba5b35/"
+[[params.social]]
+    name = "Email"
+    icon = "fas fa-envelope"
+    weight = 2
+    url = "mailto:jkhatri01@gmail.com"
 
 [languages]
     [languages.en]
