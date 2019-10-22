@@ -1,0 +1,17 @@
+dist: xenial
+
+branches:
+  only:
+    - gh-pages
+
+language: go
+sudo: false
+go: 1.12.4
+
+install:
+  - curl -sSL https://github.com/gohugoio/hugo/releases/download/v0.58.2/hugo_extended_0.58.2_Linux-64bit.tar.gz | tar -zxf - -C /tmp/
+  - ls /tmp/
+  - export PATH="/tmp:$PATH"
+script: cd personal_website && hugo --theme=coder
+after_success:
+  - GIT_COMMIT=`git rev-parse --short HEAD` && cd ./public && cp -v ../../CNAME ./CNAME && git init > /dev/null 2>&1 && git add . && git -c user.name='Travis-CI' -c user.email='travis@jkhatri.net' commit -m "build ${GIT_COMMIT}" > /dev/null 2>&1 && git push --force "https://${GITHUB_TOKEN}@github.com/jkhatri01/jkhatri01.github.io.git"  master > /dev/null 2>&1
