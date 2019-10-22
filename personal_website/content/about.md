@@ -8,7 +8,7 @@ showthedate = false
 
 My almost past affair with cars made me an **Automobile Engineer**.
 
-**BUT** my lungs worry about the taste of air that I and billions breathe and the looming catastrophe of climate change resulted in me mostly thinking about decarbonizing the transport sector.
+**BUT** my lungs worry about the taste of air that I and billions breathe and the looming catastrophe of climate change resulted in pursuing MSc in Transport at [ITS](https://environment.leeds.ac.uk/transport).
 
 I am interested in **transport** + **environment** + **transport-justice** + **air-quality**.
 
