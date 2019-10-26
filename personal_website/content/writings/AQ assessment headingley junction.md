@@ -4,7 +4,7 @@
 author = "Jay Khatri"
 date = 2018-11-15
 showthedate = true
-title = "Air quality assessment on headingley junction"
+title = "Air-quality assessment at headingley junction"
 +++
 
 
