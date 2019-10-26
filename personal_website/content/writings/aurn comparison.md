@@ -2,7 +2,7 @@
 author = "Jay Khatri"
 date = 2018-11-30
 showthedate = true
-title = "Comparing NO<sub>2</sub> concentration in background vs kerbside environment"
+title = Comparing NO<sub>2</sub> concentration in background vs kerbside environment
 +++
 
 
