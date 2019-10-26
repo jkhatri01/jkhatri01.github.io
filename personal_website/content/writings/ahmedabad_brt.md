@@ -11,4 +11,4 @@ This paper discusses about implementation for **BRT** at my hometown of **Ahmeda
 
 ## Paper
 
-{{<pdf "/files/BRT_Essay_rev3_website.pdf">}}
+{{<pdf "/files/BRT Essay_rev3_website.pdf">}}
