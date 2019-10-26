@@ -2,7 +2,7 @@
 author = "Jay Khatri"
 date = 2019-08-30
 showthedate = true
-title = "MSc Thesis: Short term lung function impact from exposure to UFP from bicycle commute"
+title = "MSc Thesis: Short term lung function impact from exposure to UFP"
 +++
 
 This thesis analysis **short term** impact on **lung function** from **exposure to UFP (Ultrafine particles)** in kerbside and urban background conditions
