@@ -8,7 +8,7 @@ title = "Air quality assessment on headingley junction"
 +++
 
 
-his paper discusses impact on **air quality** from interaction of **traffic related air pollutant** in a **street canyon** at Headingley junction in Leeds, UK
+This paper discusses impact on **air quality** from interaction of **traffic related air pollutant** in a **street canyon** at Headingley junction in Leeds, UK
 <!--more-->
 
 ## Paper
