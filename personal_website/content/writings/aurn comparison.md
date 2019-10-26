@@ -2,7 +2,7 @@
 author = "Jay Khatri"
 date = 2018-11-30
 showthedate = true
-title = "Comparing background and kerbside nitrogen dioxide pollutant"
+title = "Comparing nitrogen dioxide (air pollutant) concentration in background and kerbside environment"
 +++
 
 
