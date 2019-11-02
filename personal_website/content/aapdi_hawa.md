@@ -5,7 +5,7 @@ showthedate = false
 +++
 
 
-**Project Aapdi Hawa** is an effort to expand the debate of **worsening air** quality in **Indian cities** beyond the critically polluted cities with a focus on improving the skill set grassroots levels of the governance structure.
+**Project Aapdi Hawa**(*English translation: Our Air*) is an effort to expand the debate of **worsening air** quality in **Indian cities** beyond the critically polluted cities with a focus on improving the skill set grassroots levels of the governance structure.
 
 Currently, **202 operational CAAQMS** across Indian cities record air quality parameters. While this information-based policy instrument is a powerful tool, **lack of skill set of interpreting the data and visualizing complex interactions** deters us and city officials to use the data for various **urban planning decisions**.
 

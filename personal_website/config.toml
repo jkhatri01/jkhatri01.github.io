@@ -70,7 +70,7 @@ pygmentscodefencesguesssyntax = true
         url = "/writings/"
 
         [[languages.en.menu.main]]
-        name = "Curriculum vitae/Resume"
+        name = "Resume"
         weight = 3
         url = "/files/jay_khatri_cv.pdf"
 
