@@ -73,3 +73,8 @@ pygmentscodefencesguesssyntax = true
         name = "Curriculum vitae/Resume"
         weight = 3
         url = "/files/jay_khatri_cv.pdf"
+
+        [[languages.en.menu.main]]
+        name = "Project Aapdi Hawa"
+        weight = 4
+        url = "/aapdi_hawa/"
