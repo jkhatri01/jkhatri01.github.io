@@ -12,4 +12,4 @@ My almost past affair with cars made me an **Automobile Engineer**.
 
 I am interested in **transport** + **environment** + **transport-justice** + **air-quality**.
 
-Reach me at j dot khatri zero one at gmail dot com
+Reach me at: j dot khatri zero one at gmail dot com
