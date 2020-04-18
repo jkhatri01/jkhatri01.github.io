@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writings on Jay Khatri</title>
+    <link>http://www.jaykhatri.me/writings/</link>
+    <description>Recent content in Writings on Jay Khatri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 30 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.jaykhatri.me/writings/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MSc Thesis: Short term lung function impact from exposure to UFP</title>
+      <link>http://www.jaykhatri.me/writings/thesis/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.jaykhatri.me/writings/thesis/</guid>
+      <description>&lt;p&gt;This thesis analysis &lt;strong&gt;short term&lt;/strong&gt; impact on &lt;strong&gt;lung function&lt;/strong&gt; from &lt;strong&gt;exposure to UFP (Ultrafine particles)&lt;/strong&gt; in kerbside and urban background conditions
+simultaneously by undertaking bicycling as commute choice. UFP concentrations and breathing flow rates are measured &lt;strong&gt;continiously in realtime&lt;/strong&gt; during bicycling.
+Pre/post bicycling activity impact on lung function in terms of &lt;strong&gt;spirometry&lt;/strong&gt; and change in &lt;strong&gt;FeNO (Fractional exhaled Nitric Oxide)&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Decarbonising freight transport</title>
+      <link>http://www.jaykhatri.me/writings/future-of-freight/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.jaykhatri.me/writings/future-of-freight/</guid>
+      <description>&lt;p&gt;This paper in European context discusses a &lt;strong&gt;co-ordinated and consistent&lt;/strong&gt; way of how urban logistics emissions can become
+&lt;strong&gt;emission and carbon free&lt;/strong&gt;, how &lt;strong&gt;rail&lt;/strong&gt; can take a &lt;strong&gt;larger share&lt;/strong&gt; for long distance (&amp;gt;300km) frieght movement and how
+&lt;strong&gt;both&lt;/strong&gt; urban and long distance aspects of freight movement be &lt;strong&gt;integrated effectively&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Comparing London and Berlin LEZ</title>
+      <link>http://www.jaykhatri.me/writings/lez-comparison/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.jaykhatri.me/writings/lez-comparison/</guid>
+      <description>&lt;p&gt;This paper discusses and compares &lt;strong&gt;London&lt;/strong&gt; and &lt;strong&gt;Berlin&lt;/strong&gt; &lt;strong&gt;LEZ (Low Emission Zones)&lt;/strong&gt;, pre and post &lt;strong&gt;impact&lt;/strong&gt; of implementing
+LEZ and &lt;strong&gt;gap&lt;/strong&gt; between expected impacts from modelling versus actual results post implementation due to uncertainity
+of actual vehicle emissions and emission factors used in modelling. Also recommends approach of LEZ
+implementaion in York, UK.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Air-quality assessment at headingley junction</title>
+      <link>http://www.jaykhatri.me/writings/aq-assessment-headingley-junction/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.jaykhatri.me/writings/aq-assessment-headingley-junction/</guid>
+      <description>&lt;p&gt;This paper discusses impact on &lt;strong&gt;air quality&lt;/strong&gt; from interaction of &lt;strong&gt;traffic related air pollutant&lt;/strong&gt; in a &lt;strong&gt;street canyon&lt;/strong&gt; at Headingley junction in Leeds, UK&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Intermodal freight movement in Australia</title>
+      <link>http://www.jaykhatri.me/writings/australia-intermodal-rail-freight/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.jaykhatri.me/writings/australia-intermodal-rail-freight/</guid>
+      <description>&lt;p&gt;This paper discusses the proposal of increasing the contribution of &lt;strong&gt;rail&lt;/strong&gt; in movement of freight using &lt;strong&gt;intermodal approach&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ahmedabad BRT</title>
+      <link>http://www.jaykhatri.me/writings/ahmedabad_brt/</link>
+      <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.jaykhatri.me/writings/ahmedabad_brt/</guid>
+      <description>&lt;p&gt;This paper discusses about implementation for &lt;strong&gt;BRT&lt;/strong&gt; at my hometown of &lt;strong&gt;Ahmedabad, Gujarat, India.&lt;/strong&gt; Lessons learned and best practices for other planned or to be implemented &lt;strong&gt;BRT&lt;/strong&gt; projects&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Comparing NO&lt;sub&gt;2&lt;/sub&gt; concentration in background vs kerbside environment</title>
+      <link>http://www.jaykhatri.me/writings/aurn-comparison/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.jaykhatri.me/writings/aurn-comparison/</guid>
+      <description>&lt;p&gt;This paper discusses and compares concentration of &lt;strong&gt;NO&lt;sub&gt;2&lt;/sub&gt;&lt;/strong&gt; levels in &lt;strong&gt;London&lt;/strong&gt; using &lt;strong&gt;DEFRA AURN (Automatic Urban and Rural Network)&lt;/strong&gt;. Kerbside AURN &lt;a href=&#34;https://uk-air.defra.gov.uk/networks/site-info?site_id=CA1&#34;&gt;UKA00259&lt;/a&gt; is located in &lt;strong&gt;Camden borough&lt;/strong&gt;.
+Urban background AURN &lt;a href=&#34;https://uk-air.defra.gov.uk/networks/site-info?site_id=HG4&#34;&gt;UKA00568&lt;/a&gt; is located in &lt;strong&gt;London haringey park south&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
