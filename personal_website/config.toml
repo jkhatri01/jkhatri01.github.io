@@ -82,3 +82,9 @@ pygmentscodefencesguesssyntax = true
         name = "About"
         parent = "Project Aapdi Hawa"
         url = "/aapdi_hawa/"
+
+        [[languages.en.menu.main]]
+        name = "Reports"
+        parent = "Project Aapdi Hawa"
+        url = "/aapdi_hawa_reports/"
+
