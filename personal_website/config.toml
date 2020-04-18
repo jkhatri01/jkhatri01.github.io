@@ -77,4 +77,8 @@ pygmentscodefencesguesssyntax = true
         [[languages.en.menu.main]]
         name = "Project Aapdi Hawa"
         weight = 4
+
+        [[languages.en.menu.main]]
+        name = "About"
+        parent = "Project Aapdi Hawa"
         url = "/aapdi_hawa/"

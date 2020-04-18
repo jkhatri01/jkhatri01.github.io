@@ -1,7 +1,7 @@
 .navigation {
   height: 6.0rem;
   width: 100%;
-  a, span {
+  a, p, span {
     display: inline;
     font-size: 1.6rem;
     font-family: $heading-font-family;
@@ -46,13 +46,30 @@
       @media only screen and (max-width : 768px) {
         float: none !important;
         text-align: center;
-        a, span {
+        a, p, span {
           line-height: 5.0rem;
         }
       }
-      a, span {
+      a, p, span {
         margin-left: 1.0rem;
         margin-right: 1.0rem;
+      }
+    }
+    .navigation-item-dropdown-content {
+      display: none;
+      position: center;
+      background-color: #f9f9f9;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+      z-index: 1;
+      a {
+        float: none;
+        color: black;
+        text-decoration: none;
+        display: block;
+        text-align: center;
+        &:hover {
+          background-color: #ddd;
+        }
       }
     }
     .menu-separator {
@@ -93,4 +110,8 @@
       }
     }
   }
+}
+
+.navigation-item:hover .navigation-item-dropdown-content {
+  display: block;
 }
