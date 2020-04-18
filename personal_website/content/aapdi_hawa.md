@@ -13,5 +13,3 @@ By **making available crisp visualizations and reports** on air quality paramete
 
 I believe it is crucial also to **develop actions from the grassroots level of governance structure, which NCAP (National Clean Air Program) fails to recognize** with a lack of efforts to improve the skill set of municipal and city officials empowering them. These empowered officials at the lowest levels of governance, **making more informed decisions** for various urban planning projects or putting interventions in place to **improve air quality at a spatial scale** of a city. Also, aid collaboration at a regional level with surrounding cities with data-based evidence to enhance the quality of air.
 
-
-**Project Link:** *Comming Soon*
